@@ -1,4 +1,4 @@
-# Setting-Cloudfront-for-an-s3-origin
+# Setting-Cloudfront-for-s3-as origin
 
 Amazon CloudFront is a global content delivery network (CDN) service built for high-speed, low-latency performance, security, and developer ease-of-use.
 We can set Cloudfront to different origins as Ec2 instance, S3 bucket
