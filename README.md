@@ -123,3 +123,6 @@ Now, we can use the alternative domain instead of the distribution URL. Please c
 # Conclusion
 
 In this tutorial we discussed how to set a cloudfront for an S3 origin. The goal is to get you started on using Amazon CloudFront for for high-speed, low-latency performance, security, and developer ease-of-use as it is cheap and easy to do.
+
+![image](https://user-images.githubusercontent.com/100774483/159791288-f847a481-d10d-45b2-9825-c9eca14dc9cf.png) with <img src = "https://user-images.githubusercontent.com/100774483/159791288-f847a481-d10d-45b2-9825-c9eca14dc9cf.png" width="100"height="100">
+
